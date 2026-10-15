@@ -23,19 +23,6 @@ lib/
 └── main.dart
 ```
 
-## Menjalankan
-
-```bash
-flutter pub get
-flutter run
-```
-
-Untuk menjalankan melalui script npm:
-
-```bash
-npm run dev
-```
-
 ## Screenshot
 
 Screenshot hasil aplikasi:
