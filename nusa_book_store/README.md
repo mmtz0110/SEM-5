@@ -40,10 +40,14 @@ npm run dev
 
 Screenshot hasil aplikasi:
 
-| Katalog dan badge | Keranjang dan total |
+| Katalog | Keranjang — Light Mode |
 | --- | --- |
-| ![Katalog](screenshots/catalog.png) | ![Keranjang](screenshots/cart.png) |
+| ![Katalog](screenshots/catalog.png) | ![Keranjang Light Mode](screenshots/cart-light-mode.png) |
 
-| Light Mode | Dark Mode dan SnackBar checkout |
+| Light Mode | Keranjang — Dark Mode |
 | --- | --- |
-| ![Light Mode](screenshots/light-mode.png) | ![Dark Mode](screenshots/dark-mode-checkout.png) |
+| ![Light Mode](screenshots/light-mode.png) | ![Keranjang Dark Mode](screenshots/cart-dark-mode.png) |
+
+| Dark Mode |
+| --- |
+| ![Dark Mode](screenshots/dark-mode.png) |
