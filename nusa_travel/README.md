@@ -14,18 +14,6 @@ Aplikasi Flutter sederhana untuk menjelajahi paket wisata Indonesia dan mengirim
 
 Model, route, dan setiap screen dipisah ke folder `lib/models`, `lib/routes`, dan `lib/screens`.
 
-## Pengumpulan
-
-1. Upload project ini ke GitHub dan kirim URL repository.
-2. Pastikan repository memiliki folder `lib/` dan file `pubspec.yaml`.
-3. Screenshot setiap halaman tersedia di folder `screenshots/`.
-4. Screenshot dialog `PopScope` dan `SnackBar` setelah pemesanan juga disertakan.
-5. Jalankan pemeriksaan project dengan:
-
-```bash
-flutter analyze
-flutter build web
-```
 
 ### Splash Screen
 
@@ -51,8 +39,3 @@ flutter build web
 
 ![Not Found Screen](screenshots/errorscreen.png)
 
-### SnackBar setelah pemesanan
-
-SnackBar ditampilkan setelah form booking berhasil dikirim dan halaman kembali ke Detail Screen. Tambahkan hasil tangkapan layar SnackBar ke folder `screenshots/` dengan nama `snackbar.png`, lalu gambar akan tampil di GitHub menggunakan Markdown berikut:
-
-![SnackBar setelah pemesanan](screenshots/snackbar.png)
