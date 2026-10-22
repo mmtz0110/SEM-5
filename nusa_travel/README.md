@@ -2,19 +2,6 @@
 
 Aplikasi Flutter sederhana untuk menjelajahi paket wisata Indonesia dan mengirim pemesanan.
 
-## Menjalankan di web
-
-```bash
-flutter pub get
-flutter run -d chrome
-```
-
-Untuk membuat build web:
-
-```bash
-flutter build web
-```
-
 ## Alur navigasi
 
 - `/` menampilkan Splash Screen dan memakai `pushReplacementNamed()` ke Home.
